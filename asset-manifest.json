@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Fyllo-taw/static/css/main.2f226f37.css",
+    "main.js": "/Fyllo-taw/static/js/main.19e2dae5.js",
+    "static/media/fa-solid-900.ttf": "/Fyllo-taw/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Fyllo-taw/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/Fyllo-taw/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Fyllo-taw/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/Fyllo-taw/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/illustration-intro.png": "/Fyllo-taw/static/media/illustration-intro.c20d85255009f195b4a6.png",
+    "static/media/illustration-stay-productive.png": "/Fyllo-taw/static/media/illustration-stay-productive.5d7a50ea74b08000cd67.png",
+    "static/media/fa-regular-400.woff2": "/Fyllo-taw/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Fyllo-taw/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Fyllo-taw/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/logo.svg": "/Fyllo-taw/static/media/logo.f5363383bf279490c4aba63ca2917a80.svg",
+    "index.html": "/Fyllo-taw/index.html",
+    "static/media/icon-arrow.svg": "/Fyllo-taw/static/media/icon-arrow.2491a46a96689783ec3c96bfb90aa30c.svg",
+    "static/media/bg-curvy-desktop.svg": "/Fyllo-taw/static/media/bg-curvy-desktop.953dbf39a0ba9d537f9d8cf1140c09e2.svg",
+    "main.2f226f37.css.map": "/Fyllo-taw/static/css/main.2f226f37.css.map",
+    "main.19e2dae5.js.map": "/Fyllo-taw/static/js/main.19e2dae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f226f37.css",
+    "static/js/main.19e2dae5.js"
+  ]
+}
