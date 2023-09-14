@@ -6,7 +6,7 @@ function Features() {
           className=" grid grid-cols-1 md:grid-cols-2 gap-[100px] w-[865px] max-w-full mx-auto
     "
         >
-          <div className="boxes">
+          <div className="boxes text-center">
             <i class="fa-solid fa-user-group"></i>
             <h2>titile</h2>
             <p>
@@ -14,7 +14,7 @@ function Features() {
               explicabo?
             </p>
           </div>
-          <div className="boxes">
+          <div className="boxes text-center">
             <i class="fa-solid fa-message"></i>
             <h2>titile</h2>
             <p>
@@ -22,7 +22,7 @@ function Features() {
               explicabo?
             </p>
           </div>
-          <div className="boxes">
+          <div className="boxes text-center">
             <i class="fa-solid fa-person-running"></i>
             <h2>titile</h2>
             <p>
@@ -30,7 +30,7 @@ function Features() {
               explicabo?
             </p>
           </div>
-          <div className="boxes">
+          <div className="boxes text-center">
             <i class="fa-solid fa-comment-medical"></i>
             <h2>titile</h2>
             <p>
