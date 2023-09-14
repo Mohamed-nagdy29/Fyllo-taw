@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fyllo-taw/static/css/main.2f226f37.css",
-    "main.js": "/Fyllo-taw/static/js/main.19e2dae5.js",
+    "main.js": "/Fyllo-taw/static/js/main.0dcb8082.js",
     "static/media/fa-solid-900.ttf": "/Fyllo-taw/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/Fyllo-taw/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/fa-solid-900.woff2": "/Fyllo-taw/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
@@ -17,10 +17,10 @@
     "static/media/icon-arrow.svg": "/Fyllo-taw/static/media/icon-arrow.2491a46a96689783ec3c96bfb90aa30c.svg",
     "static/media/bg-curvy-desktop.svg": "/Fyllo-taw/static/media/bg-curvy-desktop.953dbf39a0ba9d537f9d8cf1140c09e2.svg",
     "main.2f226f37.css.map": "/Fyllo-taw/static/css/main.2f226f37.css.map",
-    "main.19e2dae5.js.map": "/Fyllo-taw/static/js/main.19e2dae5.js.map"
+    "main.0dcb8082.js.map": "/Fyllo-taw/static/js/main.0dcb8082.js.map"
   },
   "entrypoints": [
     "static/css/main.2f226f37.css",
-    "static/js/main.19e2dae5.js"
+    "static/js/main.0dcb8082.js"
   ]
 }
